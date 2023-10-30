@@ -1,0 +1,8 @@
+com\opencart\utils\ConfigLoader.class
+com\opencart\pages\RegistrationPage.class
+com\opencart\pages\AccountSuccessPage.class
+com\opencart\pages\LoginPage.class
+com\opencart\pages\SearchPage.class
+com\opencart\utils\Utilities.class
+com\opencart\pages\AccountPage.class
+com\opencart\pages\HomePage.class
